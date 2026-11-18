@@ -1,0 +1,1 @@
+ Transformed raw customer data into clear reports on campaign performance and customer behaviour. Created DAX measures and KPIs such as Total Customers, Response Rate, Average Income and Spending. Build an interactive dashboard with key insights.
